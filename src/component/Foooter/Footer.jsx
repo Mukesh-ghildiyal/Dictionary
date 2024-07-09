@@ -6,8 +6,8 @@ const Footer = () => {
         <div className="footer">
             <hr style={{ width: "90%", marginTop: 20 }} />
             <span className="name">
-                Made by{" "}      
-                    Mukesh Ghildiyal
+                Made by{" "}
+                Mukesh Ghildiyal
             </span>
             <div className="iconContainer">
                 <a href="" target="__blank">
