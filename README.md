@@ -1,4 +1,4 @@
-Live:https://dictionary-123.netlify.app/
+Live:(https://muku-dictionary.netlify.app/)
 
 
 # React + Vite
